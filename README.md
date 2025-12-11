@@ -52,6 +52,19 @@ Swirl OS focuses on:
 
 ---
 
+## ❓ Why Swirl OS?
+
+Most existing OS kernels focus on either performance or flexibility — Swirl OS aims
+to balance both, providing:
+
+- A clean and modern kernel architecture
+- Fast boot performance
+- A predictable memory and interrupt model
+- Easy extensibility for experiments or research
+- A growing ecosystem targeting developers & creative tools
+
+---
+
 ## 🚀 Build & Run
 
 ### **Requirements**
