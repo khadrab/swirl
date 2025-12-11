@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/swirl-banner.png" width="850"/>
+  <img src="assets/swirl-logo.png" width="328"/>
 </p>
 
 <h1 align="center">Swirl OS</h1>
